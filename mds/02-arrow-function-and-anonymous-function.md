@@ -3,5 +3,5 @@
 
 - - - - -
 
-# What is anonymous function?
+# What is an anonymous function?
 - An anonymous function is a function without a name.
